@@ -2,3 +2,4 @@ a.txt sp1
 sp2
 sp3 Min0313
 sp4 Min00313
+sp5 민규는 잘생김
